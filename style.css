@@ -1,0 +1,112 @@
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+}
+html{
+    font-size:16px;
+}
+body{
+    background: url('../img/bg.png') repeat-x #629d66;
+}
+.container{
+    background: white;
+    margin:0 auto;
+    max-width: 800px;
+}
+ul{
+    list-style-type: none;
+}
+h1{
+    text-align: center;
+    padding: 70px;
+    font-size: 80px;
+    text-indent: 240px;
+    margin: 0px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(98, 111, 80);
+}
+li{
+    text-indent: 10px;
+}
+
+.sidebar{
+    float: left;
+    max-width: 200px;
+    display: inline-block;
+}
+
+.block{
+    box-sizing: border-box;
+    width: 200px;
+    background-image: url('pilisForras/img/img02.gif');
+    background-size: 300px;
+    background-repeat: no-repeat;
+}
+
+.header{
+    background-image: url('pilisForras/img/logo1.jpg');
+    width: 900px;
+    height: 220px;
+    color: white;
+    text-transform: uppercase;
+}
+h1{
+    text-align: center;
+    padding: 70px;
+    margin: 0px;
+    font-size: 80px;
+    text-indent: 230px;
+}
+li{
+    text-indent: 10px;
+}
+
+.sidebar{
+    max-width: 200px;
+    float: left;
+    display: inline-block;
+}
+h3{
+    background-color: rgb(32, 57, 38);
+    color: white;
+}
+.kep1{
+    float: left;
+    margin: 4px 4px 4px 0px;
+
+}
+.footer{
+    background-color: rgb(32, 57, 38);
+    width: 800px;
+    color: white;
+    text-indent: 310px;
+
+}
+
+.kep2{
+    float: left;
+    margin: 4px 4px 4px 0px;
+}
+.content{
+    max-width: 700px;
+    padding: 5px;
+    float: right;
+    text-align: justify;
+    max-height: auto;
+    display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
